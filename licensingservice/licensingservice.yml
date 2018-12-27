@@ -1,4 +1,4 @@
-example.property: "I AM THE DEFAULT 4"
+example.property: "I AM THE DEFAULT 5"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
